@@ -3,15 +3,15 @@ TODO: Add summary
 
 ## Examples
 ### Runde um den Dom
-#### Moritz's Rad
+#### Fahrrad 1
 ![](images/Domrunde_moritz.png)
 
 [Interaktive Karte](/data/processed/Domrunde_Moritz.csv.csv.processed_az.geojson)
 
-#### Daniel's Rad
+#### Fahrrad 2
 
 ![](images/Domrunde_daniel.png)
-(Ohne Kernel, altes Farbschema)  
+Ohne Glättung (Kernel = 0), altes Farbschema
 [Interaktive Karte](/data/processed/Domrunde_Daniel.csv.processed_az.geojson)
 
 ![](images/Domrunde_daniel_k1.png)
